@@ -1,4 +1,4 @@
-# cron-parser
+# Cron Parser
 
 ### Main Class : `org.example.CronParser`
 
