@@ -10,7 +10,7 @@
   `java -cp target/CronParser-1.0-SNAPSHOT.jar  org.example.CronParser <CRON EXPRESSION>`
 
 
-### Example command and outpuy
+### Example command and output
 
 #### Command
 `java -cp target/CronParser-1.0-SNAPSHOT.jar  org.example.CronParser "*/15 0 1,15  * 1-5 /usr/bin/find"`
